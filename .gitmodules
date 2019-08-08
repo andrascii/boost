@@ -690,7 +690,7 @@
 	branch = .
 [submodule "container_hash"]
 	path = libs/container_hash
-	url = https://github.com/boostorg/container_hash.git
+	url = ../container_hash.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "hof"]
