@@ -690,7 +690,7 @@
 	branch = .
 [submodule "container_hash"]
 	path = libs/container_hash
-	url = ../container_hash.git
+	url = https://github.com/andrascii/container_hash.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "hof"]
